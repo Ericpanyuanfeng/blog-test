@@ -1,9 +1,18 @@
 # 个人介绍 Ericpanyuanfeng
+
+单行代码
+``` css
+h1{
+    color: red;
+}
 ``` 
-<p>以下是正文</p>
-``` 
+
+多行代码
 ```Javascript
-console.log('Hello,world')
+function f(){
+    console.log('Hello world')
+}
+f();
 ``` 
 
 兴趣
